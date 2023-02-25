@@ -30,19 +30,18 @@ As perguntas a serem feitas são as seguintes:
 - Você tem algum animal de estimação?
 
 ## Objetivos de aprendizagem
+  
+### JavaScript:
 
-
-* [ ] Manipulação de strings.
-* [ ] Uso de condicionais (if-else | switch | operador ternário)
-* [ ] Uso de laços _(loops)_ (for | for..in | for..of | while)
-* [ ] Uso de funções (parâmetros | argumentos | valor de retorno)
-* [ ] Declaração correta de variáveis (const & let)
-
+- Saída de dados com `alert()`
+- Variáveis e constantes 
+- Entrada de dados com `prompt()`
+- Entrada de dados e uso de variáveis
 
 ### Git e GitHub:
 
-* [ ] Uso de comandos de git: `git add` `git commit` `git pull` `git push`
-* [ ] Gerenciamento de repositorios de GitHub (clone e fork)
+- Uso de comandos de git: `git add` `git commit` `git pull` `git push`
+- Gerenciamento de repositorios de GitHub (clone e fork)
 
 ## Orientações:
 
@@ -60,9 +59,9 @@ As perguntas a serem feitas são as seguintes:
 ## Desafio:
 
 Essa etapa é **opcional**. Caso queira implementar no seu projeto e aprofundar seus conhecimentos você pode tentar fazer com que as respostas sejam exibidas não apenas na janela 
-de `alert()` mas usar o proprio HTML para exibir as respostas na sua tela. 
+de `alert()` mas usar o proprio HTML para escrever as respostas na sua tela. 
 
-### Lembre-se que essa sessão é opcional
+#### Lembre-se que essa sessão é opcional!
 
 ## Dicas
 
