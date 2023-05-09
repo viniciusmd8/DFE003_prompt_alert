@@ -87,6 +87,7 @@ O que deve ser feito:
 
 Essa etapa é **opcional**. Caso queira implementar no seu projeto e aprofundar seus conhecimentos você pode tentar fazer com que as respostas sejam exibidas não apenas na janela 
 de `alert()` mas usar o proprio HTML para escrever as respostas na sua tela. 
+[Introdução ao DOM](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction)
 
 #### Lembre-se que essa sessão é opcional!
 
